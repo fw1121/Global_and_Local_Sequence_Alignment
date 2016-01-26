@@ -1,1 +1,4 @@
-# Global_and_Local_Sequence_Alignment
+# Global and Local Sequence Alignment
+Features:
+1. Do global and local sequence alignment
+2. User define score matrix
